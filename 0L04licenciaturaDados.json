@@ -1,0 +1,261 @@
+[
+    {
+        "id":1,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 1",
+        "grupo":"ИВТб-1301-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22809"
+    },
+    {
+        "id":2,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 1",
+        "grupo":"ИВТб-1302-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22897"
+    },
+    {
+        "id":3,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 1",
+        "grupo":"ИВТб-1303-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22898"
+    },
+    {
+        "id":4,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 1",
+        "grupo":"ИВТб-1304-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22899"
+    },
+    {
+        "id":5,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 1",
+        "grupo":"ИВТб-1305-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22900"
+    },
+    {
+        "id":6,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 1",
+        "grupo":"ИВТб-1306-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22901"
+    },
+    {
+        "id":7,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 2",
+        "grupo":"ИВТб-2301-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22179"
+    },
+    {
+        "id":8,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 2",
+        "grupo":"ИВТб-2302-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22180"
+    },
+    {
+        "id":9,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 3",
+        "grupo":"ИВТб-3301-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21912"
+    },
+    {
+        "id":10,
+        "curso":"09.03.01 Информатика и вычислительная техника",
+        "ano":"Курс 4",
+        "grupo":"ИВТб-4301-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21827"
+    },
+    {
+        "id":11,
+        "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
+        "ano":"Курс 1",
+        "grupo":"ИКТб-1301-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22811"
+    },
+    {
+        "id":12,
+        "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
+        "ano":"Курс 1",
+        "grupo":"ИКТб-1302-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22903"
+    },
+    {
+        "id":13,
+        "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
+        "ano":"Курс 2",
+        "grupo":"ИКТб-2301-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22191"
+    },
+    {
+        "id":14,
+        "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
+        "ano":"Курс 3",
+        "grupo":"ИКТб-3301-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21921"
+    },
+    {
+        "id":15,
+        "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
+        "ano":"Курс 4",
+        "grupo":"ИКТб-4301-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21848"
+    },
+    {
+        "id":16,
+        "curso":"10.03.01 Информационная безопасность",
+        "ano":"Курс 1",
+        "grupo":"ИНБб-1301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22810"
+    },
+    {
+        "id":17,
+        "curso":"10.03.01 Информационная безопасность",
+        "ano":"Курс 1",
+        "grupo":"ИНБб-1302-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22904"
+    },
+    {
+        "id":18,
+        "curso":"10.03.01 Информационная безопасность",
+        "ano":"Курс 2",
+        "grupo":"ИНБб-2301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22186"
+    },
+    {
+        "id":18,
+        "curso":"10.03.01 Информационная безопасность",
+        "ano":"Курс 3",
+        "grupo":"ИНБб-3301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21919"
+    },
+    {
+        "id":19,
+        "curso":"10.03.01 Информационная безопасность",
+        "ano":"Курс 3",
+        "grupo":"ИНБб-3302-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21920"
+    },
+    {
+        "id":20,
+        "curso":"10.03.01 Информационная безопасность",
+        "ano":"Курс 4",
+        "grupo":"ИНБб-4301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21846"
+    },
+    {
+        "id":21,
+        "curso":"27.03.04 Управление в технических системах",
+        "ano":"Курс 1",
+        "grupo":"УТб-1301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22815"
+    },
+    {
+        "id":22,
+        "curso":"27.03.04 Управление в технических системах",
+        "ano":"Курс 2",
+        "grupo":"УТб-2301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22190"
+    },
+    {
+        "id":23,
+        "curso":"27.03.04 Управление в технических системах",
+        "ano":"Курс 3",
+        "grupo":"УТб-3301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21924"
+    },
+    {
+        "id":24,
+        "curso":"27.03.04 Управление в технических системах",
+        "ano":"Курс 4",
+        "grupo":"УТб-4301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21874"
+    },
+    {
+        "id":25,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 2",
+        "grupo":"ИТб-2301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22182"
+    },
+    {
+        "id":26,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 2",
+        "grupo":"ИТб-2302-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22183"
+    },
+    {
+        "id":27,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 2",
+        "grupo":"ИТб-2303-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22184"
+    },
+    {
+        "id":28,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 3",
+        "grupo":"ИТб-3301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21914"
+    },
+    {
+        "id":29,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 3",
+        "grupo":"ИТб-3302-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21915"
+    },
+    {
+        "id":30,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 3",
+        "grupo":"ИТб-3303-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21916"
+    },
+    {
+        "id":31,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 4",
+        "grupo":"ИТб-4301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21829"
+    },
+    {
+        "id":32,
+        "curso":"09.03.02 Информационные системы и технологии",
+        "ano":"Курс 4",
+        "grupo":"ИТб-4302-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21833"
+    },
+    {
+        "id":33,
+        "curso":"09.03.03 Прикладная информатика",
+        "ano":"Курс 2",
+        "grupo":"ПИб-2301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22187"
+    },
+    {
+        "id":34,
+        "curso":"09.03.03 Прикладная информатика",
+        "ano":"Курс 2",
+        "grupo":"ПИб-2302-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22188"
+    },
+    {
+        "id":35,
+        "curso":"09.03.03 Прикладная информатика",
+        "ano":"Курс 3",
+        "grupo":"ПИб-3301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21917"
+    },
+    {
+        "id":36,
+        "curso":"09.03.03 Прикладная информатика",
+        "ano":"Курс 4",
+        "grupo":"ПИб-4301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21842"
+    }
+]

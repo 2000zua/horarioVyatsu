@@ -1,0 +1,157 @@
+[
+    {
+        "id":1,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 1",
+        "grupo":"Бб-1101-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22808"
+    },
+    {
+        "id":2,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 1",
+        "grupo":"Бб-1102-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22896"
+    },
+    {
+        "id":3,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 2",
+        "grupo":"Бб-2101-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22194"
+    },
+    {
+        "id":4,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 2",
+        "grupo":"Бб-2102-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22195"
+    },
+    {
+        "id":5,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 2",
+        "grupo":"Бб-2103-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22196"
+    },
+    {
+        "id":6,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 3",
+        "grupo":"Бб-3101-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21909"
+    },
+    {
+        "id":7,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 3",
+        "grupo":"Бб-3102-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21910"
+    },
+    {
+        "id":8,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 3",
+        "grupo":"Бб-3103-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21911"
+    },
+    {
+        "id":9,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 4",
+        "grupo":"Бб-4101-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21801"
+    },
+    {
+        "id":10,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 4",
+        "grupo":"Бб-4102-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21802"
+    },
+    {
+        "id":11,
+        "curso":"06.03.01 Биология",
+        "ano":"Курс 4",
+        "grupo":"Бб-4103-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21803"
+    },
+    {
+        "id":12,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 1",
+        "grupo":"БТб-1101-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22618"
+    },
+    {
+        "id":13,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 1",
+        "grupo":"БТб-1102-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22619"
+
+    },
+    {
+        "id":14,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 2",
+        "grupo":"БТб-2101-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22078"
+    },
+    {
+        "id":15,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 2",
+        "grupo":"БТб-2102-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22079"
+    },
+    {
+        "id":16,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 3",
+        "grupo":"БТб-3101-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21922"
+    },
+    {
+        "id":17,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 3",
+        "grupo":"БТб-3102-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21923"
+    },
+    {
+        "id":18,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 4",
+        "grupo":"БТб-4101-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21892"
+    },
+    {
+        "id":19,
+        "curso":"19.03.01 Биотехнология",
+        "ano":"Курс 4",
+        "grupo":"БТб-4102-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21808"
+    },
+    {
+        "id":20,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3101-53-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21935"
+    },
+    {
+        "id":21,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4101-53-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21865"
+    },
+    {
+        "id":22,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5101-53-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21790"
+    }
+]

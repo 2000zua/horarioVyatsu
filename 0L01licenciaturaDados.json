@@ -4,111 +4,127 @@
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 1",
         "grupo":"ПОДб-1701-08-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22639"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22639",
+        "nivel":"licenciatura"
     },
     {
         "id":2,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2701-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22117"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22117",
+        "nivel":"licenciatura"
     },
     {
         "id":3,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2702-03-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22134"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22134",
+        "nivel":"licenciatura"
     },
     {
         "id":4,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2703-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22128"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22128",
+        "nivel":"licenciatura"
     },
     {
         "id":5,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2704-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22198"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22198",
+        "nivel":"licenciatura"
     },
     {
         "id":6,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2705-51-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22120"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22120",
+        "nivel":"licenciatura"
     },
     {
         "id":7,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2706-58-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22136"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22136",
+        "nivel":"licenciatura"
     },
     {
         "id":8,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2707-60-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22137"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22137",
+        "nivel":"licenciatura"
     },
     {
         "id":9,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2708-61-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22106"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22106",
+        "nivel":"licenciatura"
     },
     {
         "id":10,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2709-64-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22130"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22130",
+        "nivel":"licenciatura"
     },
     {
         "id":11,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2710-64-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22131"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22131",
+        "nivel":"licenciatura"
     },
     {
         "id":12,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2711-68-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22099"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22099",
+        "nivel":"licenciatura"
     },
     {
         "id":13,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-2712-71-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22113"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22113",
+        "nivel":"licenciatura"
     },
     {
         "id":14,
         "curso":"44.03.01 Педагогическое образование",
         "ano":"Курс 2",
         "grupo":"ПОб-2701-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22208"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22208",
+        "nivel":"licenciatura"
     },
     {
         "id":15,
         "curso":"44.03.01 Педагогическое образование",
         "ano":"Курс 2",
         "grupo":"ПОб-2702-63-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22127"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22127",
+        "nivel":"licenciatura"
     },
     {
         "id":16,
         "curso":"44.03.02 Психолого-педагогическое образование",
         "ano":"Курс 2",
         "grupo":"ППОб-2701-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22129"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22129",
+        "nivel":"licenciatura"
     }
 ]

@@ -4,258 +4,295 @@
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 1",
         "grupo":"ИВТб-1301-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22809"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22809",
+        "nivel":"licenciatura"
     },
     {
         "id":2,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 1",
         "grupo":"ИВТб-1302-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22897"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22897",
+        "nivel":"licenciatura"
     },
     {
         "id":3,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 1",
         "grupo":"ИВТб-1303-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22898"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22898",
+        "nivel":"licenciatura"
     },
     {
         "id":4,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 1",
         "grupo":"ИВТб-1304-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22899"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22899",
+        "nivel":"licenciatura"
     },
     {
         "id":5,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 1",
         "grupo":"ИВТб-1305-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22900"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22900",
+        "nivel":"licenciatura"
     },
     {
         "id":6,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 1",
         "grupo":"ИВТб-1306-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22901"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22901",
+        "nivel":"licenciatura"
     },
     {
         "id":7,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 2",
         "grupo":"ИВТб-2301-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22179"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22179",
+        "nivel":"licenciatura"
     },
     {
         "id":8,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 2",
         "grupo":"ИВТб-2302-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22180"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22180",
+        "nivel":"licenciatura"
     },
     {
         "id":9,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 3",
         "grupo":"ИВТб-3301-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21912"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21912",
+        "nivel":"licenciatura"
     },
     {
         "id":10,
         "curso":"09.03.01 Информатика и вычислительная техника",
         "ano":"Курс 4",
         "grupo":"ИВТб-4301-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21827"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21827",
+        "nivel":"licenciatura"
     },
     {
         "id":11,
         "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
         "ano":"Курс 1",
         "grupo":"ИКТб-1301-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22811"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22811",
+        "nivel":"licenciatura"
     },
     {
         "id":12,
         "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
         "ano":"Курс 1",
         "grupo":"ИКТб-1302-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22903"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22903",
+        "nivel":"licenciatura"
     },
     {
         "id":13,
         "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
         "ano":"Курс 2",
         "grupo":"ИКТб-2301-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22191"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22191",
+        "nivel":"licenciatura"
     },
     {
         "id":14,
         "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
         "ano":"Курс 3",
         "grupo":"ИКТб-3301-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21921"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21921",
+        "nivel":"licenciatura"
     },
     {
         "id":15,
         "curso":"11.03.02 Инфокоммуникационные технологии и системы связи",
         "ano":"Курс 4",
         "grupo":"ИКТб-4301-04-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21848"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21848",
+        "nivel":"licenciatura"
     },
     {
         "id":16,
         "curso":"10.03.01 Информационная безопасность",
         "ano":"Курс 1",
         "grupo":"ИНБб-1301-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22810"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22810",
+        "nivel":"licenciatura"
     },
     {
         "id":17,
         "curso":"10.03.01 Информационная безопасность",
         "ano":"Курс 1",
         "grupo":"ИНБб-1302-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22904"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22904",
+        "nivel":"licenciatura"
     },
     {
         "id":18,
         "curso":"10.03.01 Информационная безопасность",
         "ano":"Курс 2",
         "grupo":"ИНБб-2301-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22186"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22186",
+        "nivel":"licenciatura"
     },
     {
         "id":18,
         "curso":"10.03.01 Информационная безопасность",
         "ano":"Курс 3",
         "grupo":"ИНБб-3301-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21919"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21919",
+        "nivel":"licenciatura"
     },
     {
         "id":19,
         "curso":"10.03.01 Информационная безопасность",
         "ano":"Курс 3",
         "grupo":"ИНБб-3302-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21920"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21920",
+        "nivel":"licenciatura"
     },
     {
         "id":20,
         "curso":"10.03.01 Информационная безопасность",
         "ano":"Курс 4",
         "grupo":"ИНБб-4301-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21846"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21846",
+        "nivel":"licenciatura"
     },
     {
         "id":21,
         "curso":"27.03.04 Управление в технических системах",
         "ano":"Курс 1",
         "grupo":"УТб-1301-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22815"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22815",
+        "nivel":"licenciatura"
     },
     {
         "id":22,
         "curso":"27.03.04 Управление в технических системах",
         "ano":"Курс 2",
         "grupo":"УТб-2301-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22190"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22190",
+        "nivel":"licenciatura"
     },
     {
         "id":23,
         "curso":"27.03.04 Управление в технических системах",
         "ano":"Курс 3",
         "grupo":"УТб-3301-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21924"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21924",
+        "nivel":"licenciatura"
     },
     {
         "id":24,
         "curso":"27.03.04 Управление в технических системах",
         "ano":"Курс 4",
         "grupo":"УТб-4301-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21874"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21874",
+        "nivel":"licenciatura"
     },
     {
         "id":25,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 2",
         "grupo":"ИТб-2301-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22182"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22182",
+        "nivel":"licenciatura"
     },
     {
         "id":26,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 2",
         "grupo":"ИТб-2302-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22183"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22183",
+        "nivel":"licenciatura"
     },
     {
         "id":27,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 2",
         "grupo":"ИТб-2303-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22184"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22184",
+        "nivel":"licenciatura"
     },
     {
         "id":28,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 3",
         "grupo":"ИТб-3301-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21914"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21914",
+        "nivel":"licenciatura"
     },
     {
         "id":29,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 3",
         "grupo":"ИТб-3302-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21915"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21915",
+        "nivel":"licenciatura"
     },
     {
         "id":30,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 3",
         "grupo":"ИТб-3303-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21916"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21916",
+        "nivel":"licenciatura"
     },
     {
         "id":31,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 4",
         "grupo":"ИТб-4301-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21829"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21829",
+        "nivel":"licenciatura"
     },
     {
         "id":32,
         "curso":"09.03.02 Информационные системы и технологии",
         "ano":"Курс 4",
         "grupo":"ИТб-4302-02-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21833"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21833",
+        "nivel":"licenciatura"
     },
     {
         "id":33,
         "curso":"09.03.03 Прикладная информатика",
         "ano":"Курс 2",
         "grupo":"ПИб-2301-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22187"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22187",
+        "nivel":"licenciatura"
     },
     {
         "id":34,
         "curso":"09.03.03 Прикладная информатика",
         "ano":"Курс 2",
         "grupo":"ПИб-2302-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22188"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22188",
+        "nivel":"licenciatura"
     },
     {
         "id":35,
         "curso":"09.03.03 Прикладная информатика",
         "ano":"Курс 3",
         "grupo":"ПИб-3301-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21917"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21917",
+        "nivel":"licenciatura"
     },
     {
         "id":36,
         "curso":"09.03.03 Прикладная информатика",
         "ano":"Курс 4",
         "grupo":"ПИб-4301-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21842"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21842",
+        "nivel":"licenciatura"
     }
 ]

@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 1",
+        "grupo":"ЛВб-1205-07-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22659"
+    },
+    {
+        "id":2,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 1",
+        "grupo":"ЛВб-1207-07-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/23009"
+    },
+    {
+        "id":3,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 2",
+        "grupo":"ЛВб-2206-07-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22203"
+    },
+    {
+        "id":4,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 2",
+        "grupo":"ЛВб-2209-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22831"
+    },
+    {
+        "id":5,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 3",
+        "grupo":"ЛВб-3208-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21946"
+    },
+    {
+        "id":6,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 4",
+        "grupo":"ЛВб-4206-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21857"
+    }
+]

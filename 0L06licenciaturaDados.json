@@ -1,0 +1,156 @@
+[
+    {
+        "id":1,
+        "curso":"02.03.01 Математика и компьютерные науки",
+        "ano":"Курс 1",
+        "grupo":"МКб-1301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22605"
+    },
+    {
+        "id":2,
+        "curso":"02.03.01 Математика и компьютерные науки",
+        "ano":"Курс 2",
+        "grupo":"МКб-2301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22040"
+    },
+    {
+        "id":3,
+        "curso":"02.03.01 Математика и компьютерные науки",
+        "ano":"Курс 3",
+        "grupo":"МКб-3301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21951"
+    },
+    {
+        "id":4,
+        "curso":"02.03.01 Математика и компьютерные науки",
+        "ano":"Курс 4",
+        "grupo":"МКб-4301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21817"
+    },
+    {
+        "id":5,
+        "curso":"01.03.02 Прикладная математика и информатика",
+        "ano":"Курс 1",
+        "grupo":"ПМИб-1301-52-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22603"
+    },
+    {
+        "id":6,
+        "curso":"01.03.02 Прикладная математика и информатика",
+        "ano":"Курс 2",
+        "grupo":"ПМИб-2301-52-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22039"
+    },
+    {
+        "id":7,
+        "curso":"01.03.02 Прикладная математика и информатика",
+        "ano":"Курс 3",
+        "grupo":"ПМИб-3301-52-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21950"
+    },
+    {
+        "id":8,
+        "curso":"01.03.02 Прикладная математика и информатика",
+        "ano":"Курс 4",
+        "grupo":"ПМИб-4301-52-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21814"
+    },
+    {
+        "id":9,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 1",
+        "grupo":"ФИб-1301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22606"
+    },
+    {
+        "id":10,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 1",
+        "grupo":"ФИб-1302-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22607"
+    },
+    {
+        "id":11,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 2",
+        "grupo":"ФИб-2301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22111"
+    },
+    {
+        "id":12,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 2",
+        "grupo":"ФИб-2302-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22112"
+    },
+    {
+        "id":13,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 3",
+        "grupo":"ФИб-3301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21952"
+    },
+    {
+        "id":14,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 3",
+        "grupo":"ФИб-3302-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21953"
+    },
+    {
+        "id":15,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 4",
+        "grupo":"ФИб-4301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21823"
+    },
+    {
+        "id":16,
+        "curso":"02.03.02 Фундаментальная информатика и информационные технологии",
+        "ano":"Курс 4",
+        "grupo":"ФИб-4302-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21824"
+    },
+    {
+        "id":17,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3301-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22010"
+    },
+    {
+        "id":18,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3302-60-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22008"
+    },
+    {
+        "id":19,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4301-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21858"
+    },
+    {
+        "id":20,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4302-60-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21856"
+    },
+    {
+        "id":21,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5301-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21788"
+    },
+    {
+        "id":22,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5303-60-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21787"
+    }
+]

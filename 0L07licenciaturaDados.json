@@ -1,0 +1,149 @@
+[
+    {
+        "id":1,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 1",
+        "grupo":"ЛВб-1201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22654"
+    },
+    {
+        "id":2,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 1",
+        "grupo":"ЛВб-1202-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22656"
+    },
+    {
+        "id":3,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 1",
+        "grupo":"ЛВб-1204-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22657"
+    },
+    {
+        "id":4,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 2",
+        "grupo":"ЛВб-2201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22090"
+    },
+    {
+        "id":5,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 2",
+        "grupo":"ЛВб-2202-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22081"
+    },
+    {
+        "id":6,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 2",
+        "grupo":"ЛВб-2203-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22091"
+    },
+    {
+        "id":7,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 2",
+        "grupo":"ЛВб-2204-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22082"
+    },
+    {
+        "id":8,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 3",
+        "grupo":"ЛВб-3201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21942"
+    },
+    {
+        "id":9,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 3",
+        "grupo":"ЛВб-3202-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21943"
+    },
+    {
+        "id":10,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 3",
+        "grupo":"ЛВб-3203-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21944"
+    },
+    {
+        "id":11,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 3",
+        "grupo":"ЛВб-3205-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21945"
+    },
+    {
+        "id":12,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 4",
+        "grupo":"ЛВб-4201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21845"
+    },
+    {
+        "id":13,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 4",
+        "grupo":"ЛВб-4203-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21849"
+    },
+    {
+        "id":14,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 4",
+        "grupo":"ЛВб-4204-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21853"
+    },
+    {
+        "id":15,
+        "curso":"45.03.02 Лингвистика",
+        "ano":"Курс 4",
+        "grupo":"ЛВб-4205-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21854"
+    },
+    {
+        "id":16,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21937"
+    },
+    {
+        "id":17,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3203-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21936"
+    },
+    {
+        "id":18,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21870"
+    },
+    {
+        "id":19,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4203-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21868"
+    },
+    {
+        "id":20,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21792"
+    },
+    {
+        "id":21,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5203-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21791"
+    }
+]

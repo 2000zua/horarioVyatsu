@@ -1,0 +1,254 @@
+[
+    {
+        "id":1,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 1",
+        "grupo":"ЖКб-1201-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22634"
+    },
+    {
+        "id":2,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 1",
+        "grupo":"ЖКб-1202-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22635"
+    },
+    {
+        "id":3,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 2",
+        "grupo":"ЖКб-2201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22123"
+    },
+    {
+        "id":4,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 2",
+        "grupo":"ЖКб-2202-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22124"
+    },
+    {
+        "id":5,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 3",
+        "grupo":"ЖКб-3201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21931"
+    },
+    {
+        "id":6,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 3",
+        "grupo":"ЖКб-3202-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21932"
+    },
+    {
+        "id":7,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 4",
+        "grupo":"ЖКб-4201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21819"
+    },
+    {
+        "id":6,
+        "curso":"42.03.02 Журналистика",
+        "ano":"Курс 4",
+        "grupo":"ЖКб-4202-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21820"
+    },
+    {
+        "id":7,
+        "curso":"42.03.01 Реклама и связи с общественностью",
+        "ano":"Курс 1",
+        "grupo":"РСОб-1201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22632"
+    },
+    {
+        "id":8,
+        "curso":"42.03.01 Реклама и связи с общественностью",
+        "ano":"Курс 1",
+        "grupo":"РСОб-1202-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22633"
+    },
+    {
+        "id":9,
+        "curso":"42.03.01 Реклама и связи с общественностью",
+        "ano":"Курс 2",
+        "grupo":"РСОб-2201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22121"
+    },
+    {
+        "id":10,
+        "curso":"42.03.01 Реклама и связи с общественностью",
+        "ano":"Курс 2",
+        "grupo":"РСОб-2202-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22122"
+    },
+    {
+        "id":11,
+        "curso":"42.03.01 Реклама и связи с общественностью",
+        "ano":"Курс 3",
+        "grupo":"РСОб-3201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21929"
+    },
+    {
+        "id":12,
+        "curso":"42.03.01 Реклама и связи с общественностью",
+        "ano":"Курс 3",
+        "grupo":"РСОб-3202-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21930"
+    },
+    {
+        "id":13,
+        "curso":"42.03.01 Реклама и связи с общественностью",
+        "ano":"Курс 4",
+        "grupo":"РСОб-4201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21835"
+    },
+    {
+        "id":14,
+        "curso":"45.03.01 Филология",
+        "ano":"Курс 1",
+        "grupo":"ФЛб-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22652"
+    },
+    {
+        "id":15,
+        "curso":"45.03.01 Филология",
+        "ano":"Курс 2",
+        "grupo":"ФЛб-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22200"
+    },
+    {
+        "id":16,
+        "curso":"45.03.01 Филология",
+        "ano":"Курс 2",
+        "grupo":"ФЛб-2202-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22832"
+    },
+    {
+        "id":17,
+        "curso":"45.03.01 Филология",
+        "ano":"Курс 3",
+        "grupo":"ФЛб-3201-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21939"
+    },
+    {
+        "id":18,
+        "curso":"45.03.01 Филология",
+        "ano":"Курс 3",
+        "grupo":"ФЛб-3202-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21940"
+    },
+    {
+        "id":19,
+        "curso":"45.03.01 Филология",
+        "ano":"Курс 4",
+        "grupo":"ФЛб-4201-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21843"
+    },
+    {
+        "id":20,
+        "curso":"45.03.01 Филология",
+        "ano":"Курс 4",
+        "grupo":"ФЛб-4202-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21844"
+    },
+    {
+        "id":21,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3207-64-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21934"
+    },
+    {
+        "id":22,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4206-64-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21862"
+    },
+    {
+        "id":23,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5207-64-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21789"
+    },
+    {
+        "id":24,
+        "curso":"38.03.05 Бизнес-информатика",
+        "ano":"Курс 1",
+        "grupo":"БИб-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22629"
+    },
+    {
+        "id":25,
+        "curso":"38.03.05 Бизнес-информатика",
+        "ano":"Курс 2",
+        "grupo":"БИб-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22069"
+    },
+    {
+        "id":26,
+        "curso":"38.03.05 Бизнес-информатика",
+        "ano":"Курс 3",
+        "grupo":"БИб-3601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21988"
+    },
+    {
+        "id":27,
+        "curso":"38.03.05 Бизнес-информатика",
+        "ano":"Курс 4",
+        "grupo":"БИб-4601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21832"
+    },
+    {
+        "id":28,
+        "curso":"38.03.01 Экономика",
+        "ano":"Курс 1",
+        "grupo":"ЭКНб-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22886"
+    },
+    {
+        "id":29,
+        "curso":"38.03.01 Экономика",
+        "ano":"Курс 2",
+        "grupo":"ЭКНб-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22068"
+    },
+    {
+        "id":30,
+        "curso":"38.03.01 Экономика",
+        "ano":"Курс 2",
+        "grupo":"ЭКНб-2602-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22065"
+    },
+    {
+        "id":31,
+        "curso":"38.03.01 Экономика",
+        "ano":"Курс 3",
+        "grupo":"ЭКНб-3601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21987"
+    },
+    {
+        "id":32,
+        "curso":"38.03.01 Экономика",
+        "ano":"Курс 3",
+        "grupo":"ЭКНб-3602-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21984"
+    },
+    {
+        "id":33,
+        "curso":"38.03.01 Экономика",
+        "ano":"Курс 4",
+        "grupo":"ЭКНб-4601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21834"
+    },
+    {
+        "id":34,
+        "curso":"38.03.01 Экономика",
+        "ano":"Курс 4",
+        "grupo":"ЭКНб-4603-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21826"
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "id":1,
+        "curso":"54.03.01 Дизайн",
+        "ano":"Курс 1",
+        "grupo":"Дб-1801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22664"
+    },
+    {
+        "id":2,
+        "curso":"54.03.01 Дизайн",
+        "ano":"Курс 2",
+        "grupo":"Дб-2801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22057"
+    },
+    {
+        "id":3,
+        "curso":"54.03.01 Дизайн",
+        "ano":"Курс 2",
+        "grupo":"Дб-2802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22058"
+    },
+    {
+        "id":4,
+        "curso":"54.03.01 Дизайн",
+        "ano":"Курс 3",
+        "grupo":"Дб-3801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22012"
+    },
+    {
+        "id":5,
+        "curso":"54.03.01 Дизайн",
+        "ano":"Курс 4",
+        "grupo":"Дб-4801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21894"
+    },
+    {
+        "id":6,
+        "curso":"22.03.02 Металлургия",
+        "ano":"Курс 1",
+        "grupo":"МЛб-1801-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22622"
+    },
+    {
+        "id":7,
+        "curso":"22.03.02 Металлургия",
+        "ano":"Курс 2",
+        "grupo":"МЛб-2801-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22077"
+    },
+    {
+        "id":8,
+        "curso":"22.03.02 Металлургия",
+        "ano":"Курс 3",
+        "grupo":"МЛб-3801-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22005"
+    },
+    {
+        "id":9,
+        "curso":"22.03.02 Металлургия",
+        "ano":"Курс 4",
+        "grupo":"МЛб-4801-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21825"
+    },
+    {
+        "id":10,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 1",
+        "grupo":"МСб-1801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22615"
+    },
+    {
+        "id":11,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 1",
+        "grupo":"МСб-1802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22616"
+    },
+    {
+        "id":12,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 2",
+        "grupo":"МСб-2801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22066"
+    },
+    {
+        "id":13,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 2",
+        "grupo":"МСб-2802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22067"
+    },
+    {
+        "id":14,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 3",
+        "grupo":"МСб-3801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21997"
+    },
+    {
+        "id":15,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 3",
+        "grupo":"МСб-3802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21998"
+    },
+    {
+        "id":16,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 4",
+        "grupo":"МСб-4801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21809"
+    },
+    {
+        "id":17,
+        "curso":"15.03.01 Машиностроение",
+        "ano":"Курс 4",
+        "grupo":"МСб-4802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21810"
+    },
+    {
+        "id":18,
+        "curso":"22.03.01 Материаловедение и технологии материалов",
+        "ano":"Курс 1",
+        "grupo":"МТб-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22621"
+    },
+    {
+        "id":19,
+        "curso":"22.03.01 Материаловедение и технологии материалов",
+        "ano":"Курс 2",
+        "grupo":"МТб-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22074"
+    },
+    {
+        "id":20,
+        "curso":"22.03.01 Материаловедение и технологии материалов",
+        "ano":"Курс 3",
+        "grupo":"МТб-3801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22004"
+    },
+    {
+        "id":21,
+        "curso":"22.03.01 Материаловедение и технологии материалов",
+        "ano":"Курс 4",
+        "grupo":"МТб-4801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21818"
+    },
+    {
+        "id":22,
+        "curso":"29.03.04 Технология художественной обработки материалов",
+        "ano":"Курс 1",
+        "grupo":"ТХОб-1801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22624"
+    },
+    {
+        "id":23,
+        "curso":"29.03.04 Технология художественной обработки материалов",
+        "ano":"Курс 1",
+        "grupo":"ТХОб-1802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22625"
+    },
+    {
+        "id":24,
+        "curso":"29.03.04 Технология художественной обработки материалов",
+        "ano":"Курс 2",
+        "grupo":"ТХОб-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22084"
+    },
+    {
+        "id":25,
+        "curso":"29.03.04 Технология художественной обработки материалов",
+        "ano":"Курс 3",
+        "grupo":"ТХОб-3801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22006"
+    },
+    {
+        "id":26,
+        "curso":"29.03.04 Технология художественной обработки материалов",
+        "ano":"Курс 4",
+        "grupo":"ТХОб-4801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21828"
+    },
+    {
+        "id":27,
+        "curso":"29.03.05 Конструирование изделий легкой промышленности",
+        "ano":"Курс 2",
+        "grupo":"КИб-2801-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22085"
+    },
+    {
+        "id":28,
+        "curso":"29.03.05 Конструирование изделий легкой промышленности",
+        "ano":"Курс 3",
+        "grupo":"КИб-3801-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22007"
+    },
+    {
+        "id":29,
+        "curso":"29.03.05 Конструирование изделий легкой промышленности",
+        "ano":"Курс 4",
+        "grupo":"КИб-4801-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21830"
+    },
+    {
+        "id":30,
+        "curso":"07.03.04 Градостроительство",
+        "ano":"Курс 3",
+        "grupo":"ГСб-3802-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21996"
+    },
+    {
+        "id":31,
+        "curso":"07.03.04 Градостроительство",
+        "ano":"Курс 5",
+        "grupo":"ГСб-5801-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21798"
+    },
+    {
+        "id":32,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3801-71-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22011"
+    },
+    {
+        "id":33,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4801-71-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21871"
+    },
+    {
+        "id":34,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5801-71-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21793"
+    }
+]

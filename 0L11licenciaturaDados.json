@@ -1,0 +1,142 @@
+[
+    {
+        "id":1,
+        "curso":"07.03.04 Градостроительство",
+        "ano":"Курс 1",
+        "grupo":"ГСб-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22611"
+    },
+    {
+        "id":2,
+        "curso":"07.03.04 Градостроительство",
+        "ano":"Курс 4",
+        "grupo":"ГСб-4801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21804"
+    },
+    {
+        "id":3,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 1",
+        "grupo":"СТб-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22612"
+    },
+    {
+        "id":4,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 1",
+        "grupo":"СТб-1802-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22613"
+    },
+    {
+        "id":5,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 1",
+        "grupo":"СТб-1803-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22614"
+    },
+    {
+        "id":6,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 2",
+        "grupo":"СТб-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22043"
+    },
+    {
+        "id":7,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 2",
+        "grupo":"СТб-2802-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22044"
+    },
+    {
+        "id":8,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 2",
+        "grupo":"СТб-2803-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22045"
+    },
+    {
+        "id":9,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 3",
+        "grupo":"СТб-3801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21955"
+    },
+    {
+        "id":10,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 3",
+        "grupo":"СТб-3802-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21956"
+    },
+    {
+        "id":11,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 3",
+        "grupo":"СТб-3803-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21957"
+    },
+    {
+        "id":12,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 4",
+        "grupo":"СТб-4801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21805"
+    },
+    {
+        "id":13,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 4",
+        "grupo":"СТб-4802-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21806"
+    },
+    {
+        "id":14,
+        "curso":"08.03.01 Строительство",
+        "ano":"Курс 4",
+        "grupo":"СТб-4803-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21807"
+    },
+    {
+        "id":15,
+        "curso":"20.03.01 Техносферная безопасность",
+        "ano":"Курс 1",
+        "grupo":"ТБб-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22620"
+    },
+    {
+        "id":16,
+        "curso":"20.03.01 Техносферная безопасность",
+        "ano":"Курс 2",
+        "grupo":"ТБб-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22051"
+    },
+    {
+        "id":17,
+        "curso":"20.03.01 Техносферная безопасность",
+        "ano":"Курс 3",
+        "grupo":"ТБб-3801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21975"
+    },
+    {
+        "id":18,
+        "curso":"20.03.01 Техносферная безопасность",
+        "ano":"Курс 4",
+        "grupo":"ТБб-4801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21812"
+    },
+    {
+        "id":19,
+        "curso":"21.03.02 Землеустройство и кадастры",
+        "ano":"Курс 2",
+        "grupo":"Зб-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22054"
+    },
+    {
+        "id":20,
+        "curso":"21.03.02 Землеустройство и кадастры",
+        "ano":"Курс 4",
+        "grupo":"Зб-4801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21816"
+    }
+]

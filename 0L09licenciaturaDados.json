@@ -1,0 +1,163 @@
+[
+    {
+        "id":1,
+        "curso":"38.03.04 Государственное и муниципальное управление",
+        "ano":"Курс 1",
+        "grupo":"ГМб-1601-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22628"
+    },
+    {
+        "id":2,
+        "curso":"38.03.04 Государственное и муниципальное управление",
+        "ano":"Курс 2",
+        "grupo":"ГМб-2601-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22102"
+    },
+    {
+        "id":3,
+        "curso":"38.03.04 Государственное и муниципальное управление",
+        "ano":"Курс 3",
+        "grupo":"ГМб-3601-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21974"
+    },
+    {
+        "id":4,
+        "curso":"38.03.04 Государственное и муниципальное управление",
+        "ano":"Курс 4",
+        "grupo":"ГМб-4601-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21876"
+    },
+    {
+        "id":5,
+        "curso":"27.03.05 Инноватика",
+        "ano":"Курс 1",
+        "grupo":"ИНб-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22623"
+    },
+    {
+        "id":6,
+        "curso":"27.03.05 Инноватика",
+        "ano":"Курс 2",
+        "grupo":"ИНб-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22080"
+    },
+    {
+        "id":7,
+        "curso":"27.03.05 Инноватика",
+        "ano":"Курс 3",
+        "grupo":"ИНб-3601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21971"
+    },
+    {
+        "id":8,
+        "curso":"27.03.05 Инноватика",
+        "ano":"Курс 4",
+        "grupo":"ИНб-4601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21895"
+    },
+    {
+        "id":9,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 1",
+        "grupo":"МНб-1601-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22891"
+    },
+    {
+        "id":10,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 1",
+        "grupo":"МНб-1602-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22892"
+    },
+    {
+        "id":11,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 2",
+        "grupo":"МНб-2601-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22096"
+    },
+    {
+        "id":12,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 2",
+        "grupo":"МНб-2602-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22092"
+    },
+    {
+        "id":13,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 3",
+        "grupo":"МНб-3601-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21973"
+    },
+    {
+        "id":14,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 3",
+        "grupo":"МНб-3602-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21972"
+    },
+    {
+        "id":15,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 4",
+        "grupo":"МНб-4601-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21841"
+    },
+    {
+        "id":16,
+        "curso":"38.03.02 Менеджмент",
+        "ano":"Курс 4",
+        "grupo":"МНб-4602-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21839"
+    },
+    {
+        "id":17,
+        "curso":"43.03.02 Туризм",
+        "ano":"Курс 1",
+        "grupo":"ТРб-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22636"
+    },
+    {
+        "id":18,
+        "curso":"43.03.02 Туризм",
+        "ano":"Курс 2",
+        "grupo":"ТРб-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22126"
+    },
+    {
+        "id":19,
+        "curso":"43.03.02 Туризм",
+        "ano":"Курс 3",
+        "grupo":"ТРб-3601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21981"
+    },
+    {
+        "id":20,
+        "curso":"43.03.02 Туризм",
+        "ano":"Курс 4",
+        "grupo":"ТРб-4601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21840"
+    },
+    {
+        "id":21,
+        "curso":"38.03.03 Управление персоналом",
+        "ano":"Курс 2",
+        "grupo":"УПб-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22100"
+    },
+    {
+        "id":22,
+        "curso":"38.03.03 Управление персоналом",
+        "ano":"Курс 4",
+        "grupo":"УПб-4601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21875"
+    },
+    {
+        "id":23,
+        "curso":"38.03.06 Торговое дело",
+        "ano":"Курс 3",
+        "grupo":"Тб-3601-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21976"
+    }
+]

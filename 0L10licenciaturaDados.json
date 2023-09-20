@@ -1,0 +1,121 @@
+[
+    {
+        "id":1,
+        "curso":"37.03.01 Психология",
+        "ano":"Курс 1",
+        "grupo":"ПЛб-1701-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22627"
+    },
+    {
+        "id":2,
+        "curso":"37.03.01 Психология",
+        "ano":"Курс 2",
+        "grupo":"ПЛб-2701-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22088"
+    },
+    {
+        "id":3,
+        "curso":"37.03.01 Психология",
+        "ano":"Курс 2",
+        "grupo":"ПЛб-2702-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22087"
+    },
+    {
+        "id":5,
+        "curso":"37.03.01 Психология",
+        "ano":"Курс 3",
+        "grupo":"ПЛб-3701-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21999"
+    },
+    {
+        "id":6,
+        "curso":"37.03.01 Психология",
+        "ano":"Курс 4",
+        "grupo":"ПЛб-4701-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21831"
+    },
+    {
+        "id":7,
+        "curso":"44.03.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 1",
+        "grupo":"СДОб-1701-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22638"
+    },
+    {
+        "id":8,
+        "curso":"44.03.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 2",
+        "grupo":"СДОб-2701-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22133"
+    },
+    {
+        "id":9,
+        "curso":"44.03.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 2",
+        "grupo":"СДОб-2702-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22132"
+    },
+    {
+        "id":10,
+        "curso":"44.03.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 3",
+        "grupo":"СДОб-3701-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22002"
+    },
+    {
+        "id":11,
+        "curso":"44.03.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 4",
+        "grupo":"СДОб-4701-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21850"
+    },
+    {
+        "id":12,
+        "curso":"44.03.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 4",
+        "grupo":"СДОб-4702-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21851"
+    },
+    {
+        "id":13,
+        "curso":"44.03.01 Педагогическое образование",
+        "ano":"Курс 3",
+        "grupo":"ПОб-3702-65-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22000"
+    },
+    {
+        "id":14,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3701-61-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22003"
+    },
+    {
+        "id":15,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4701-61-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21873"
+    },
+    {
+        "id":16,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5701-62-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21794"
+    },
+    {
+        "id":17,
+        "curso":"44.03.02 Психолого-педагогическое образование",
+        "ano":"Курс 3",
+        "grupo":"ППОб-3701-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22001"
+    },
+    {
+        "id":18,
+        "curso":"44.03.02 Психолого-педагогическое образование",
+        "ano":"Курс 4",
+        "grupo":"ППОб-4701-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21847"
+    }
+]

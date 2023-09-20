@@ -1,0 +1,156 @@
+[
+    {
+        "id":1,
+        "curso":"46.03.01 История",
+        "ano":"Курс 1",
+        "grupo":"ИСб-1201-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22661"
+    },
+    {
+        "id":2,
+        "curso":"46.03.01 История",
+        "ano":"Курс 1",
+        "grupo":"ИСб-1202-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22662"
+    },
+    {
+        "id":3,
+        "curso":"46.03.01 История",
+        "ano":"Курс 2",
+        "grupo":"ИСб-2201-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22070"
+    },
+    {
+        "id":4,
+        "curso":"46.03.01 История",
+        "ano":"Курс 2",
+        "grupo":"ИСб-2202-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22071"
+    },
+    {
+        "id":5,
+        "curso":"46.03.01 История",
+        "ano":"Курс 3",
+        "grupo":"ИСб-3201-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21947"
+    },
+    {
+        "id":6,
+        "curso":"46.03.01 История",
+        "ano":"Курс 3",
+        "grupo":"ИСб-3202-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21948"
+    },
+    {
+        "id":7,
+        "curso":"46.03.01 История",
+        "ano":"Курс 4",
+        "grupo":"ИСб-4201-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21863"
+    },
+    {
+        "id":8,
+        "curso":"39.03.03 Организация работы с молодежью",
+        "ano":"Курс 1",
+        "grupo":"ОРМб-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22631"
+    },
+    {
+        "id":9,
+        "curso":"39.03.03 Организация работы с молодежью",
+        "ano":"Курс 2",
+        "grupo":"ОРМб-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22115"
+    },
+    {
+        "id":10,
+        "curso":"39.03.03 Организация работы с молодежью",
+        "ano":"Курс 3",
+        "grupo":"ОРМб-3201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21927"
+    },
+    {
+        "id":11,
+        "curso":"39.03.03 Организация работы с молодежью",
+        "ano":"Курс 4",
+        "grupo":"ОРМб-4201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21815"
+    },
+    {
+        "id":12,
+        "curso":"39.03.01 Социология",
+        "ano":"Курс 1",
+        "grupo":"СЦб-1201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22630"
+    },
+    {
+        "id":13,
+        "curso":"39.03.01 Социология",
+        "ano":"Курс 2",
+        "grupo":"СЦб-2201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22108"
+    },
+    {
+        "id":14,
+        "curso":"39.03.01 Социология",
+        "ano":"Курс 3",
+        "grupo":"СЦб-3201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21926"
+    },
+    {
+        "id":15,
+        "curso":"39.03.01 Социология",
+        "ano":"Курс 4",
+        "grupo":"СЦб-4201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21813"
+    },
+    {
+        "id":16,
+        "curso":"51.03.01 Культурология",
+        "ano":"Курс 2",
+        "grupo":"КТУб-2201-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22061"
+    },
+    {
+        "id":17,
+        "curso":"41.03.05 Международные отношения",
+        "ano":"Курс 3",
+        "grupo":"МОб-3201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21928"
+    },
+    {
+        "id":18,
+        "curso":"41.03.05 Международные отношения",
+        "ano":"Курс 4",
+        "grupo":"МОб-4201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21822"
+    },
+    {
+        "id":19,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3205-58-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21933"
+    },
+    {
+        "id":20,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 3",
+        "grupo":"ПОДб-3206-59-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21938"
+    },
+    {
+        "id":21,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 4",
+        "grupo":"ПОДб-4205-58-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21852"
+    },
+    {
+        "id":22,
+        "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+        "ano":"Курс 5",
+        "grupo":"ПОДб-5205-58-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21777"
+    }
+]

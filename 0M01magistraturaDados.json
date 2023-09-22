@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1701-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22735"
+    },
+    {
+        "id":2,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1702-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22738"
+    },    
+    {
+        "id":3,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1703-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22739"
+    },    
+    {
+        "id":4,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1704-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22736"
+    },    
+    {
+        "id":5,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1705-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22732"
+    },    
+    {
+        "id":6,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1706-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22733"
+    },    
+    {
+        "id":7,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1707-58-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22734"
+    },    
+    {
+        "id":8,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 1",
+        "grupo":"ПОм-1708-65-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22737"
+    },    
+    {
+        "id":9,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 2",
+        "grupo":"ПОм-2701-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22157"
+    },    
+    {
+        "id":10,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 2",
+        "grupo":"ПОм-2702-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22152"
+    },    
+    {
+        "id":11,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 2",
+        "grupo":"ПОм-2703-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22205"
+    },    
+    {
+        "id":12,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 2",
+        "grupo":"ПОм-2704-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22207"
+    },    
+    {
+        "id":13,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 2",
+        "grupo":"ПОм-2705-58-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22160"
+    },    
+    {
+        "id":14,
+        "curso":"44.04.01 Педагогическое образование",
+        "ano":"Курс 2",
+        "grupo":"ПОм-2706-65-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22154"
+    }
+]

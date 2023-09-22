@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "curso":"2.1.1 Строительные конструкции, здания и сооружения",
+        "ano":"Курс 2",
+        "grupo":"СКЗа-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22213"
+    },
+    {
+        "id":2,
+        "curso":"2.1.5 Строительные материалы и изделия",
+        "ano":"Курс 2",
+        "grupo":"СМИа-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22214"
+    },
+    {
+        "id":3,
+        "curso":"08.06.01 Техника и технологии строительства",
+        "ano":"Курс 2",
+        "grupo":"СТа-3801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22016"
+    } 
+]

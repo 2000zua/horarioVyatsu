@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "curso":"02.04.01 Математика и компьютерные науки",
+        "ano":"Курс 1",
+        "grupo":"МКм-1301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22696"
+    },
+    {
+        "id":2,
+        "curso":"02.04.01 Математика и компьютерные науки",
+        "ano":"Курс 2",
+        "grupo":"МКм-2301-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22141"
+    }, 
+    {
+        "id":3,
+        "curso":"09.04.03 Прикладная информатика",
+        "ano":"Курс 1",
+        "grupo":"ПИм-1301-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22709"
+    }, 
+    {
+        "id":4,
+        "curso":"09.04.03 Прикладная информатика",
+        "ano":"Курс 2",
+        "grupo":"ПИм-2301-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22146"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "curso":"46.04.01 История",
+        "ano":"Курс 1",
+        "grupo":"ИСм-1201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22744"
+    }, 
+    {
+        "id":2,
+        "curso":"46.04.01 История",
+        "ano":"Курс 2",
+        "grupo":"ИСм-2201-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22143"
+    }, 
+    {
+        "id":3,
+        "curso":"51.04.01 Культурология",
+        "ano":"Курс 1",
+        "grupo":"КТУм-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22746"
+    }, 
+    {
+        "id":4,
+        "curso":"39.04.02 Социальная работа",
+        "ano":"Курс 1",
+        "grupo":"СРм-1201-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22730"
+    }, 
+    {
+        "id":5,
+        "curso":"39.04.02 Социальная работа",
+        "ano":"Курс 2",
+        "grupo":"СРм-2201-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22163"
+    }, 
+    {
+        "id":6,
+        "curso":"39.04.01 Социология",
+        "ano":"Курс 1",
+        "grupo":"СЦм-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22729"
+    }, 
+    {
+        "id":7,
+        "curso":"39.04.01 Социология",
+        "ano":"Курс 2",
+        "grupo":"СЦм-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22165"
+    }, 
+    {
+        "id":8,
+        "curso":"47.04.01 Философия",
+        "ano":"Курс 1",
+        "grupo":"ФСм-1201-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22745"
+    }
+]

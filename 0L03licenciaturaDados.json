@@ -4,176 +4,154 @@
         "curso":"05.03.02 География",
         "ano":"Курс 1",
         "grupo":"ГГб-1501-51-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22610",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22610"
     },
     {
         "id":2,
         "curso":"05.03.02 География",
         "ano":"Курс 2",
         "grupo":"ГГб-2501-51-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22042",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22042"
     },
     {
         "id":3,
         "curso":"05.03.02 География",
         "ano":"Курс 3",
         "grupo":"ГГб-3501-51-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21949",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21949"
     },
     {
         "id":4,
         "curso":"05.03.02 География",
         "ano":"Курс 4",
         "grupo":"ГГб-4501-51-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21799",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21799"
     },
     {
         "id":5,
         "curso":"35.03.01 Лесное дело",
         "ano":"Курс 1",
         "grupo":"ЛДб-1501-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22626",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22626"
     },
     {
         "id":6,
         "curso":"35.03.01 Лесное дело",
         "ano":"Курс 2",
         "grupo":"ЛДб-2501-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22062",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22062"
     },
     {
         "id":7,
         "curso":"35.03.01 Лесное дело",
         "ano":"Курс 4",
         "grupo":"ЛДб-4501-01-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21821",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21821"
     },
     {
         "id":8,
         "curso":"04.03.01 Химия",
         "ano":"Курс 1",
         "grupo":"ХМб-1501-53-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22609",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22609"
     },
     {
         "id":9,
         "curso":"04.03.01 Химия",
         "ano":"Курс 2",
         "grupo":"ХМб-2501-53-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22041",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22041"
     },
     {
         "id":10,
         "curso":"04.03.01 Химия",
         "ano":"Курс 3",
         "grupo":"ХМб-3501-53-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21941",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21941"
     },
     {
         "id":11,
         "curso":"04.03.01 Химия",
         "ano":"Курс 4",
         "grupo":"ХМб-4501-53-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21800",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21800"
     },
     {
         "id":12,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 1",
         "grupo":"ХТб-1501-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22814",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22814"
     },
     {
         "id":13,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 1",
         "grupo":"ХТб-1502-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22911",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22911"
     },
     {
         "id":14,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 1",
         "grupo":"ХТб-1503-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22912",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22912"
     },
     {
         "id":15,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 2",
         "grupo":"ХТб-2501-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22046",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22046"
     },
     {
         "id":16,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 2",
         "grupo":"ХТб-2502-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22048",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22048"
     },
     {
         "id":17,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 2",
         "grupo":"ХТб-2503-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/22049",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22049"
     },
     {
         "id":18,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 3",
         "grupo":"ХТб-3501-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21967",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21967"
     },
     {
         "id":19,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 3",
         "grupo":"ХТб-3502-08-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21968",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21968"
     },
     {
         "id":20,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 3",
         "grupo":"ХТб-3503-09-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21969",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21969"
     },
     {
         "id":21,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 4",
         "grupo":"ХТб-4501-07-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21811",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21811"
     },
     {
         "id":22,
         "curso":"18.03.01 Химическая технология",
         "ano":"Курс 4",
         "grupo":"ХТб-4502-08-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21907",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21907"
     },
     {
         "id":23,
@@ -187,23 +165,20 @@
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 2",
         "grupo":"ПОДб-3501-69-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21990",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21990"
     },
     {
         "id":25,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 4",
         "grupo":"ПОДб-4501-06-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21886",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21886"
     },
     {
         "id":26,
         "curso":"44.03.05 Педагогическое образование (с двумя профилями подготовки)",
         "ano":"Курс 5",
         "grupo":"ПОДб-5501-05-00",
-        "link":"https://www.vyatsu.ru/reports/schedule/Group/21797",
-        "nivel":"licenciatura"
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21797"
     }
 ]

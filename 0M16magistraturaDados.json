@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "curso":"40.04.01 Юриспруденция",
+        "ano":"Курс 1",
+        "grupo":"ЮРм-1902-10-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22934"
+    },
+    {
+        "id":2,
+        "curso":"40.04.01 Юриспруденция",
+        "ano":"Курс 1",
+        "grupo":"ЮРм-1904-39-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22936"
+    },
+    {
+        "id":3,
+        "curso":"40.04.01 Юриспруденция",
+        "ano":"Курс 1",
+        "grupo":"ЮРм-1907-56-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22939"
+    },
+    {
+        "id":4,
+        "curso":"40.04.01 Юриспруденция",
+        "ano":"Курс 2",
+        "grupo":"ЮРм-2902-10-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22176"
+    },
+    {
+        "id":5,
+        "curso":"40.04.01 Юриспруденция",
+        "ano":"Курс 2",
+        "grupo":"ЮРм-2905-53-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22177"
+    },
+    {
+        "id":6,
+        "curso":"40.04.01 Юриспруденция",
+        "ano":"Курс 2",
+        "grupo":"ЮРм-2907-56-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22178"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "curso":"45.04.02 Лингвистика",
+        "ano":"Курс 1",
+        "grupo":"ЛВм-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22743"
+    }, 
+    {
+        "id":2,
+        "curso":"45.04.02 Лингвистика",
+        "ano":"Курс 2",
+        "grupo":"ЛВм-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22145"
+    }
+]

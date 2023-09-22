@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "curso":"5.2.6 Менеджмент",
+        "ano":"Курс 1",
+        "grupo":"Ма-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22765"
+    },
+    {
+        "id":2,
+        "curso":"5.2.6 Менеджмент",
+        "ano":"Курс 2",
+        "grupo":"Ма-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22220"
+    },
+    {
+        "id":3,
+        "curso":"5.2.3 Региональная и отраслевая экономика",
+        "ano":"Курс 1",
+        "grupo":"РОЭа-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22763"
+    },
+    {
+        "id":4,
+        "curso":"5.2.3 Региональная и отраслевая экономика",
+        "ano":"Курс 2",
+        "grupo":"РОЭа-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22218"
+    }
+]

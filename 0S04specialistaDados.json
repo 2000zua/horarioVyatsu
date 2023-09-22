@@ -1,0 +1,240 @@
+[
+    {
+        "id":1,
+        "curso":"40.05.02 Правоохранительная деятельность",
+        "ano":"Курс 1",
+        "grupo":"ПДс-1901-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22679"
+    },
+    {
+        "id":2,
+        "curso":"40.05.02 Правоохранительная деятельность",
+        "ano":"Курс 2",
+        "grupo":"ПДс-2901-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22140"
+    },
+    {
+        "id":3,
+        "curso":"40.05.02 Правоохранительная деятельность",
+        "ano":"Курс 3",
+        "grupo":"ПДс-3901-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21989"
+    },
+    {
+        "id":4,
+        "curso":"40.05.02 Правоохранительная деятельность",
+        "ano":"Курс 4",
+        "grupo":"ПДс-4901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21891"
+    },
+    {
+        "id":5,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 1",
+        "grupo":"ПНБс-1901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22918"
+    },
+    {
+        "id":6,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 1",
+        "grupo":"ПНБс-1903-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22905"
+    },
+    {
+        "id":7,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 1",
+        "grupo":"ПНБс-1904-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22906"
+    },
+    {
+        "id":8,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 2",
+        "grupo":"ПНБс-2901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22175"
+    },
+    {
+        "id":9,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 2",
+        "grupo":"ПНБс-2903-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22172"
+    },
+    {
+        "id":10,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 3",
+        "grupo":"ПНБс-3901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21982"
+    },
+    {
+        "id":11,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 3",
+        "grupo":"ПНБс-3902-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21983"
+    },
+    {
+        "id":12,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 3",
+        "grupo":"ПНБс-3903-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21985"
+    },
+    {
+        "id":13,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 3",
+        "grupo":"ПНБс-3904-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21986"
+    },
+    {
+        "id":14,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 4",
+        "grupo":"ПНБс-4901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21888"
+    },
+    {
+        "id":15,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 4",
+        "grupo":"ПНБс-4903-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21889"
+    },
+    {
+        "id":16,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 4",
+        "grupo":"ПНБс-4904-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21890"
+    },
+    {
+        "id":17,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 5",
+        "grupo":"ПНБс-5901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21783"
+    },
+    {
+        "id":18,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 5",
+        "grupo":"ПНБс-5903-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21786"
+    },
+    {
+        "id":19,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 5",
+        "grupo":"ПНБс-5904-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21784"
+    },
+    {
+        "id":20,
+        "curso":"40.05.01 Правовое обеспечение национальной безопасности",
+        "ano":"Курс 5",
+        "grupo":"ПНБс-5905-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21785"
+    },
+    {
+        "id":21,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 1",
+        "grupo":"ТАДс-1901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22676"
+    },
+    {
+        "id":22,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 1",
+        "grupo":"ТАДс-1902-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22677"
+    },
+    {
+        "id":23,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 1",
+        "grupo":"ТАДс-1903-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22678"
+    },
+    {
+        "id":24,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 2",
+        "grupo":"ТАДс-2901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22138"
+    },
+    {
+        "id":25,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 2",
+        "grupo":"ТАДс-2902-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22139"
+    },
+    {
+        "id":26,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 3",
+        "grupo":"ТАДс-3901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22036"
+    },
+    {
+        "id":27,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 3",
+        "grupo":"ТАДс-3902-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22037"
+    },
+    {
+        "id":28,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 3",
+        "grupo":"ТАДс-3903-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22038"
+    },
+    {
+        "id":29,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 4",
+        "grupo":"ТАДс-4901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21882"
+    },
+    {
+        "id":30,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 4",
+        "grupo":"ТАДс-4902-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21883"
+    },
+    {
+        "id":31,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 4",
+        "grupo":"ТАДс-4903-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21884"
+    },
+    {
+        "id":32,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 4",
+        "grupo":"ТАДс-4904-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21885"
+    },
+    {
+        "id":33,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 5",
+        "grupo":"ТАДс-5901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21781"
+    },
+    {
+        "id":34,
+        "curso":"38.05.02 Таможенное дело",
+        "ano":"Курс 5",
+        "grupo":"ТАДс-5902-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21782"
+    }
+]

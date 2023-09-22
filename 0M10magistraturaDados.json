@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "curso":"37.04.01 Психология",
+        "ano":"Курс 1",
+        "grupo":"ПЛм-1701-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22725"
+    }, 
+    {
+        "id":2,
+        "curso":"37.04.01 Психология",
+        "ano":"Курс 2",
+        "grupo":"ПЛм-2701-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22168"
+    }, 
+    {
+        "id":3,
+        "curso":"44.04.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 1",
+        "grupo":"СДОм-1701-53-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22740"
+    }, 
+    {
+        "id":4,
+        "curso":"44.04.03 Специальное (дефектологическое) образование",
+        "ano":"Курс 2",
+        "grupo":"СДОм-2701-53-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22151"
+    }
+]

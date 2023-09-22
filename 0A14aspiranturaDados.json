@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "curso":"2.4.3 Электроэнергетика",
+        "ano":"Курс 1",
+        "grupo":"ЭЭа-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22756"
+    },
+    {
+        "id":2,
+        "curso":"2.4.3 Электроэнергетика",
+        "ano":"Курс 2",
+        "grupo":"ЭЭа-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22217"
+    },
+    {
+        "id":3,
+        "curso":"2.4.2 Электротехнические комплексы и системы",
+        "ano":"Курс 2",
+        "grupo":"ЭКа-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22216"
+    },
+    {
+        "id":4,
+        "curso":"13.06.01 Электро- и теплотехника",
+        "ano":"Курс 3",
+        "grupo":"ЭиТа-3801-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22019"
+    },
+    {
+        "id":5,
+        "curso":"13.06.01 Электро- и теплотехника",
+        "ano":"Курс 3",
+        "grupo":"ЭиТа-3804-08-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22021"
+    }
+]

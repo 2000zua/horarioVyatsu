@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "curso":"45.04.01 Филология",
+        "ano":"Курс 1",
+        "grupo":"ФЛм-1202-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22741"
+    }, 
+    {
+        "id":2,
+        "curso":"45.04.01 Филология",
+        "ano":"Курс 2",
+        "grupo":"ФЛм-2202-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22147"
+    }, 
+    {
+        "id":3,
+        "curso":"04.04.01 Химия",
+        "ano":"Курс 1",
+        "grupo":"ХМм-1503-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22955"
+    }
+]

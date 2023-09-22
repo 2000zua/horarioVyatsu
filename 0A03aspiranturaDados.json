@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "curso":"2.3.2 Вычислительные системы и их элементы",
+        "ano":"Курс 1",
+        "grupo":"ВСа-1301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22754"
+    },
+    {
+        "id":2,
+        "curso":"11.06.01 Электроника, радиотехника и системы связи",
+        "ano":"Курс 3",
+        "grupo":"ЭРСа-3301-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22018"
+    }
+]

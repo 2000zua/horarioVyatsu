@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "curso":"5.6.1 Отечественная история",
+        "ano":"Курс 1",
+        "grupo":"ОИа-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22766"
+    },
+    {
+        "id":2,
+        "curso":"5.6.1 Отечественная история",
+        "ano":"Курс 2",
+        "grupo":"ОИа-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22221"
+    },
+    {
+        "id":3,
+        "curso":"5.10.1 Теория и история культуры, искусства",
+        "ano":"Курс 1",
+        "grupo":"ТИКа-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22761"
+    },
+    {
+        "id":4,
+        "curso":"5.6.2 Всеобщая история",
+        "ano":"Курс 2",
+        "grupo":"ВИа-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22222"
+    }
+]

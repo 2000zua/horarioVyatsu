@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "curso":"05.04.02 География",
+        "ano":"Курс 1",
+        "grupo":"ГГм-1501-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22699"
+    },    
+    {
+        "id":2,
+        "curso":"05.04.02 География",
+        "ano":"Курс 2",
+        "grupo":"ГГм-2501-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22093"
+    },    
+    {
+        "id":3,
+        "curso":"18.04.02 Энерго и ресурсосберегающие процессы в химической технологии, нефтехимии и биотехнологии",
+        "ano":"Курс 1",
+        "grupo":"РСПм-1501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22719"
+    },    
+    {
+        "id":4,
+        "curso":"18.04.02 Энерго и ресурсосберегающие процессы в химической технологии, нефтехимии и биотехнологии",
+        "ano":"Курс 2",
+        "grupo":"РСПм-2501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22109"
+    },    
+    {
+        "id":5,
+        "curso":"04.04.01 Химия",
+        "ano":"Курс 1",
+        "grupo":"ХМм-1501-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22698"
+    },    
+    {
+        "id":6,
+        "curso":"04.04.01 Химия",
+        "ano":"Курс 1",
+        "grupo":"ХМм-1502-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22697"
+    },    
+    {
+        "id":7,
+        "curso":"04.04.01 Химия",
+        "ano":"Курс 2",
+        "grupo":"ХМм-2501-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22089"
+    },
+    {
+        "id":8,
+        "curso":"04.04.01 Химия",
+        "ano":"Курс 2",
+        "grupo":"ХМм-2502-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22086"
+    },    
+    {
+        "id":9,
+        "curso":"18.04.01 Химическая технология",
+        "ano":"Курс 1",
+        "grupo":"ХТм-1501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22717"
+    },    
+    {
+        "id":10,
+        "curso":"18.04.01 Химическая технология",
+        "ano":"Курс 1",
+        "grupo":"ХТм-1502-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22718"
+    },    
+    {
+        "id":11,
+        "curso":"18.04.01 Химическая технология",
+        "ano":"Курс 2",
+        "grupo":"ХТм-2501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22105"
+    },    
+    {
+        "id":12,
+        "curso":"18.04.01 Химическая технология",
+        "ano":"Курс 2",
+        "grupo":"ХТм-2502-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22107"
+    },    
+    {
+        "id":13,
+        "curso":"05.04.06 Экология и природопользование",
+        "ano":"Курс 1",
+        "grupo":"ЭПм-1501-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22700"
+    },    
+    {
+        "id":14,
+        "curso":"05.04.06 Экология и природопользование",
+        "ano":"Курс 2",
+        "grupo":"ЭПм-2501-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22094"
+    }
+]

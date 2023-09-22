@@ -1,0 +1,44 @@
+[ 
+    {
+        "id":1,
+        "curso":"06.04.01 Биология",
+        "ano":"Курс 1",
+        "grupo":"Бм-1101-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22701"
+    },    
+    {
+        "id":2,
+        "curso":"06.04.01 Биология",
+        "ano":"Курс 1",
+        "grupo":"Бм-1102-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22702"
+    },    
+    {
+        "id":3,
+        "curso":"06.04.01 Биология",
+        "ano":"Курс 2",
+        "grupo":"Бм-2101-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22204"
+    },
+    {
+        "id":4,
+        "curso":"06.04.01 Биология",
+        "ano":"Курс 2",
+        "grupo":"Бм-2102-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22206"
+    },    
+    {
+        "id":5,
+        "curso":"19.04.01 Биотехнология",
+        "ano":"Курс 1",
+        "grupo":"БТм-1101-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22720"
+    },    
+    {
+        "id":6,
+        "curso":"19.04.01 Биотехнология",
+        "ano":"Курс 2",
+        "grupo":"БТм-2101-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22209"
+    }
+]

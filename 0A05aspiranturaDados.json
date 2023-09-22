@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "curso":"2.3.8 Информатика и информационные процессы",
+        "ano":"Курс 1",
+        "grupo":"ИПа-1301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22755"
+    },
+    {
+        "id":2,
+        "curso":"2.3.8 Информатика и информационные процессы",
+        "ano":"Курс 2",
+        "grupo":"ИПа-2301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22215"
+    },
+    {
+        "id":3,
+        "curso":"09.06.01 Информатика и вычислительная техника",
+        "ano":"Курс 3",
+        "grupo":"ИВТа-3302-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22017"
+    } 
+]

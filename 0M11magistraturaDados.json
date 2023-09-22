@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "curso":"08.04.01 Строительство",
+        "ano":"Курс 1",
+        "grupo":"СТм-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22703"
+    }, 
+    {
+        "id":2,
+        "curso":"08.04.01 Строительство",
+        "ano":"Курс 1",
+        "grupo":"СТм-1802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22704"
+    },
+    {
+        "id":3,
+        "curso":"08.04.01 Строительство",
+        "ano":"Курс 1",
+        "grupo":"СТм-1803-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22705"
+    }, 
+    {
+        "id":4,
+        "curso":"08.04.01 Строительство",
+        "ano":"Курс 2",
+        "grupo":"СТм-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22095"
+    },
+    {
+        "id":5,
+        "curso":"08.04.01 Строительство",
+        "ano":"Курс 2",
+        "grupo":"СТм-2802-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22097"
+    }, 
+    {
+        "id":6,
+        "curso":"08.04.01 Строительство",
+        "ano":"Курс 2",
+        "grupo":"СТм-2803-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22098"
+    },
+    {
+        "id":7,
+        "curso":"20.04.01 Техносферная безопасность",
+        "ano":"Курс 1",
+        "grupo":"ТБм-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22721"
+    }, 
+    {
+        "id":8,
+        "curso":"20.04.01 Техносферная безопасность",
+        "ano":"Курс 1",
+        "grupo":"ТБм-1802-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22952"
+    },
+    {
+        "id":9,
+        "curso":"20.04.01 Техносферная безопасность",
+        "ano":"Курс 2",
+        "grupo":"ТБм-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22110"
+    }
+]

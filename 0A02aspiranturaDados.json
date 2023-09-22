@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "curso":"1.4.4 Физическая химия",
+        "ano":"Курс 1",
+        "grupo":"ФХа-1501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22748"
+    },
+    {
+        "id":2,
+        "curso":"1.4.4 Физическая химия",
+        "ano":"Курс 2",
+        "grupo":"ФХа-2501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22210"
+    },
+    {
+        "id":3,
+        "curso":"1.5.15 Экология",
+        "ano":"Курс 1",
+        "grupo":"Эа-1501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22750"
+    },
+    {
+        "id":4,
+        "curso":"1.5.15 Экология",
+        "ano":"Курс 2",
+        "grupo":"Эа-2501-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22211"
+    },
+    {
+        "id":5,
+        "curso":"06.06.01 Биологические науки",
+        "ano":"Курс 3",
+        "grupo":"Ба-3501-53-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22015"
+    },
+    {
+        "id":6,
+        "curso":"18.06.01 Химическая технология",
+        "ano":"Курс 3",
+        "grupo":"ХТа-3501-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22023"
+    }
+]

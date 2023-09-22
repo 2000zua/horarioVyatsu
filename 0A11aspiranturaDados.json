@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "curso":"1.5.5 Физиология человека и животных",
+        "ano":"Курс 1",
+        "grupo":"ФЧЖа-1701-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22751"
+    },
+    {
+        "id":2,
+        "curso":"5.8.4 Физическая культура и профессиональная физическая подготовка",
+        "ano":"Курс 2",
+        "grupo":"ФКа-2701-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22224"
+    }
+]

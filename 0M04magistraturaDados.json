@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "curso":"09.04.01 Информатика и вычислительная техника",
+        "ano":"Курс 1",
+        "grupo":"ИВТм-1301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22707"
+    },
+    {
+        "id":2,
+        "curso":"09.04.01 Информатика и вычислительная техника",
+        "ano":"Курс 2",
+        "grupo":"ИВТм-2301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22142"
+    }, 
+    {
+        "id":3,
+        "curso":"09.04.02 Информационные системы и технологии",
+        "ano":"Курс 1",
+        "grupo":"ИТм-1301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22708"
+    }, 
+    {
+        "id":4,
+        "curso":"09.04.02 Информационные системы и технологии",
+        "ano":"Курс 2",
+        "grupo":"ИТм-2301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22144"
+    }, 
+    {
+        "id":5,
+        "curso":"11.04.02 Инфокоммуникационные технологии и системы связи",
+        "ano":"Курс 2",
+        "grupo":"ИКТм-2301-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22148"
+    }
+]

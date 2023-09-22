@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "curso":"38.04.01 Экономика",
+        "ano":"Курс 1",
+        "grupo":"ЭКНм-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22829"
+    },
+    {
+        "id":2,
+        "curso":"38.04.01 Экономика",
+        "ano":"Курс 2",
+        "grupo":"ЭКНм-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22114"
+    },
+    {
+        "id":3,
+        "curso":"38.04.01 Экономика",
+        "ano":"Курс 2",
+        "grupo":"ЭКНм-2601-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22116"
+    },
+    {
+        "id":4,
+        "curso":"38.04.01 Экономика",
+        "ano":"Курс 2",
+        "grupo":"ЭКНм-2601-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22118"
+    },
+    {
+        "id":5,
+        "curso":"38.04.08 Финансы и кредит",
+        "ano":"Курс 2",
+        "grupo":"ФиКм-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22119"
+    }
+]

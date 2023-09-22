@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "curso":"13.04.01 Теплоэнергетика и теплотехника",
+        "ano":"Курс 1",
+        "grupo":"ТиТм-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22710"
+    },
+    {
+        "id":2,
+        "curso":"13.04.01 Теплоэнергетика и теплотехника",
+        "ano":"Курс 2",
+        "grupo":"ТиТм-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22149"
+    },
+    {
+        "id":3,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 1",
+        "grupo":"ЭиЭм-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22711"
+    },
+    {
+        "id":4,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 1",
+        "grupo":"ЭиЭм-1802-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22712"
+    },
+    {
+        "id":5,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 1",
+        "grupo":"ЭиЭм-1803-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22714"
+    },
+    {
+        "id":6,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 1",
+        "grupo":"ЭиЭм-1804-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22713"
+    },
+    {
+        "id":7,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 1",
+        "grupo":"ЭиЭм-1805-06-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22715"
+    },
+    {
+        "id":8,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 2",
+        "grupo":"ЭиЭм-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22150"
+    },
+    {
+        "id":9,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 2",
+        "grupo":"ЭиЭм-2802-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22153"
+    },
+    {
+        "id":10,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 2",
+        "grupo":"ЭиЭм-2803-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22156"
+    },
+    {
+        "id":11,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 2",
+        "grupo":"ЭиЭм-2804-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22155"
+    },
+    {
+        "id":12,
+        "curso":"13.04.02 Электроэнергетика и электротехника",
+        "ano":"Курс 2",
+        "grupo":"ЭиЭм-2805-05-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22158"
+    }
+]

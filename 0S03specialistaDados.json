@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 1",
+        "grupo":"ЭБс-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22674"
+    },
+    {
+        "id":2,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 1",
+        "grupo":"ЭБс-1602-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22675"
+    },    
+    {
+        "id":3,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 2",
+        "grupo":"ЭБс-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22075"
+    },    
+    {
+        "id":4,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 2",
+        "grupo":"ЭБс-2602-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22076"
+    },    
+    {
+        "id":5,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 3",
+        "grupo":"ЭБс-3601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21991"
+    },    
+    {
+        "id":6,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 3",
+        "grupo":"ЭБс-3602-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21992"
+    },    
+    {
+        "id":7,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 4",
+        "grupo":"ЭБс-4601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21836"
+    },    
+    {
+        "id":8,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 4",
+        "grupo":"ЭБс-4602-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21837"
+    },    
+    {
+        "id":9,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 4",
+        "grupo":"ЭБс-4603-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21838"
+    },    
+    {
+        "id":10,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 5",
+        "grupo":"ЭБс-5601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21778"
+    },    
+    {
+        "id":11,
+        "curso":"38.05.01 Экономическая безопасность",
+        "ano":"Курс 5",
+        "grupo":"ЭБс-5602-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21779"
+    }
+]

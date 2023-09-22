@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "curso":"38.04.02 Менеджмент",
+        "ano":"Курс 1",
+        "grupo":"МНм-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22726"
+    }, 
+    {
+        "id":2,
+        "curso":"38.04.02 Менеджмент",
+        "ano":"Курс 2",
+        "grupo":"МНм-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22169"
+    }, 
+    {
+        "id":3,
+        "curso":"27.04.07 Наукоемкие технологии и экономика инноваций",
+        "ano":"Курс 1",
+        "grupo":"НТИм-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22723"
+    }, 
+    {
+        "id":4,
+        "curso":"27.04.07 Наукоемкие технологии и экономика инноваций",
+        "ano":"Курс 2",
+        "grupo":"НТИм-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22164"
+    }, 
+    {
+        "id":5,
+        "curso":"38.04.06 Торговое дело",
+        "ano":"Курс 1",
+        "grupo":"Тм-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22728"
+    }, 
+    {
+        "id":6,
+        "curso":"38.04.06 Торговое дело",
+        "ano":"Курс 2",
+        "grupo":"Тм-1601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22171"
+    }, 
+    {
+        "id":7,
+        "curso":"38.04.09 Государственный аудит",
+        "ano":"Курс 2",
+        "grupo":"ГАм-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22167"
+    }, 
+    {
+        "id":8,
+        "curso":"38.04.04 Государственное и муниципальное управление",
+        "ano":"Курс 2",
+        "grupo":"ГМм-2601-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22170"
+    }
+]

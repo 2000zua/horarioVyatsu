@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "curso":"15.04.01 Машиностроение",
+        "ano":"Курс 1",
+        "grupo":"МСм-1801-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22716"
+    },
+    {
+        "id":2,
+        "curso":"15.04.01 Машиностроение",
+        "ano":"Курс 2",
+        "grupo":"МСм-2801-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22159"
+    },    
+    {
+        "id":3,
+        "curso":"22.04.01 Материаловедение и технологии материалов",
+        "ano":"Курс 1",
+        "grupo":"МТм-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22722"
+    },
+    {
+        "id":4,
+        "curso":"22.04.01 Материаловедение и технологии материалов",
+        "ano":"Курс 2",
+        "grupo":"МТм-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22162"
+    },
+    {
+        "id":5,
+        "curso":"35.04.02 Технология лесозаготовительных и деревоперерабатывающих производств",
+        "ano":"Курс 1",
+        "grupo":"ТДм-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22724"
+    },
+    {
+        "id":6,
+        "curso":"35.04.02 Технология лесозаготовительных и деревоперерабатывающих производств",
+        "ano":"Курс 2",
+        "grupo":"ТДм-2801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22166"
+    }
+]

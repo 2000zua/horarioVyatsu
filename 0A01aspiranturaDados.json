@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "curso":"1.5.6 Биотехнология",
+        "ano":"Курс 1",
+        "grupo":"БТа-1101-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22752"
+    },
+    {
+        "id":2,
+        "curso":"1.5.6 Биотехнология",
+        "ano":"Курс 2",
+        "grupo":"БТа-2101-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22212"
+    },
+    {
+        "id":3,
+        "curso":"1.5.11 Микробиология",
+        "ano":"Курс 1",
+        "grupo":"Ма-1101-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22749"
+    },
+    {
+        "id":4,
+        "curso":"06.06.01 Биологические науки",
+        "ano":"Курс 3",
+        "grupo":"Ба-3101-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22014"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "curso":"42.04.01 Реклама и связи с общественностью",
+        "ano":"Курс 1",
+        "grupo":"РСОм-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22731"
+    },
+    {
+        "id":2,
+        "curso":"42.04.01 Реклама и связи с общественностью",
+        "ano":"Курс 2",
+        "grupo":"РСОм-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22161"
+    },
+    {
+        "id":3,
+        "curso":"45.04.01 Филология",
+        "ano":"Курс 1",
+        "grupo":"ФЛм-1201-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22742"
+    },
+    {
+        "id":4,
+        "curso":"45.04.01 Филология",
+        "ano":"Курс 2",
+        "grupo":"ФЛм-2201-51-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22199"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "curso":"5.10.4 Библиотековедение, библиографоведение и книговедение",
+        "ano":"Курс 1",
+        "grupo":"ББКа-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22762"
+    },
+    {
+        "id":2,
+        "curso":"5.9.2 Литературы народов мира",
+        "ano":"Курс 1",
+        "grupo":"ЛНМа-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22774"
+    },
+    {
+        "id":3,
+        "curso":"5.9.2 Литературы народов мира",
+        "ano":"Курс 2",
+        "grupo":"ЛНМа-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22227"
+    },
+    {
+        "id":4,
+        "curso":"5.9.9 Медиакоммуникации и журналистика",
+        "ano":"Курс 1",
+        "grupo":"МЖа-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22777"
+    },
+    {
+        "id":5,
+        "curso":"5.9.1 Русская литература и литературы народов Российской Федерации",
+        "ano":"Курс 1",
+        "grupo":"РЛа-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22773"
+    },
+    {
+        "id":6,
+        "curso":"5.9.1 Русская литература и литературы народов Российской Федерации",
+        "ano":"Курс 2",
+        "grupo":"РЛа-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22226"
+    },
+    {
+        "id":7,
+        "curso":"5.9.5 Русский язык. Языки народов России",
+        "ano":"Курс 1",
+        "grupo":"РЯа-1201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22775"
+    },
+    {
+        "id":8,
+        "curso":"5.9.5 Русский язык. Языки народов России",
+        "ano":"Курс 2",
+        "grupo":"РЯа-2201-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22228_"
+    }
+]

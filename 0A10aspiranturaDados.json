@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "curso":"4.3.4 Технологии, машины и оборудование для лесного хозяйства и переработки древесины",
+        "ano":"Курс 1",
+        "grupo":"ТМОа-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22759"
+    },
+    {
+        "id":2,
+        "curso":"5.8.2 Теория и методика обучения и воспитания (по областям и уровням образования)",
+        "ano":"Курс 1",
+        "grupo":"ТМОВа-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22770"
+    },
+    {
+        "id":3,
+        "curso":"2.5.5 Технология и оборудование механической и физико-технической обработки",
+        "ano":"Курс 1",
+        "grupo":"ТОМа-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22758"
+    },
+    {
+        "id":4,
+        "curso":"2.4.7 Турбомашины и поршневые двигатели",
+        "ano":"Курс 1",
+        "grupo":"ТПДа-1801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22757"
+    },
+    {
+        "id":5,
+        "curso":"15.06.01 Машиностроение",
+        "ano":"Курс 3",
+        "grupo":"МСа-3801-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22022"
+    },
+    {
+        "id":6,
+        "curso":"13.06.01 Электро- и теплотехника",
+        "ano":"Курс 3",
+        "grupo":"ЭиТа-3802-04-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22020"
+    }
+]

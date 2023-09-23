@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 1",
+        "grupo":"ЮРб-1901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22924"
+    },
+    {
+        "id":2,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 1",
+        "grupo":"ЮРб-1902-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22907"
+    },
+    {
+        "id":3,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 1",
+        "grupo":"ЮРб-1903-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22925"
+    },
+    {
+        "id":4,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 2",
+        "grupo":"ЮРб-2901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22101"
+    },
+    {
+        "id":5,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 2",
+        "grupo":"ЮРб-2902-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22103"
+    },
+    {
+        "id":6,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 2",
+        "grupo":"ЮРб-2903-03-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/22230"
+    },
+    {
+        "id":7,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 3",
+        "grupo":"ЮРб-3901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21978"
+    },
+    {
+        "id":8,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 3",
+        "grupo":"ЮРб-3902-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21979"
+    },
+    {
+        "id":9,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 3",
+        "grupo":"ЮРб-3903-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21977"
+    },
+    {
+        "id":10,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 4",
+        "grupo":"ЮРб-4901-01-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21877"
+    },
+    {
+        "id":11,
+        "curso":"40.03.01 Юриспруденция",
+        "ano":"Курс 4",
+        "grupo":"ЮРб-4902-02-00",
+        "link":"https://www.vyatsu.ru/reports/schedule/Group/21880"
+    }
+]
